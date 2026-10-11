@@ -14,7 +14,7 @@ let bgGradientInterval;
 let watermarkInterval; 
 
 // ================= APKE HISAB SE PASSWORD SET KAREIN =================
-const correctPassword = "1210"; 
+const correctPassword = "suhani1210"; 
 
 function verifyPassword() {
   const inputField = document.getElementById("secretPasswordInput");
